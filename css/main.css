@@ -1,0 +1,695 @@
+/*index styleing begging*/
+.contaner{
+    height: 2330px;
+    width: 100%;
+    background-color:  rgb(236, 239, 240);
+}
+
+.tophead{
+    background-color: rgb(77, 77, 133);
+    height: 700px;
+    width: 100%;
+}
+.blogh1{
+    font-size: 50px;
+    color: white;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+.blog1{
+    font-size: 60px;
+    color: white;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.blog2{
+    font-size: xx-large;
+    color:  rgb(236, 239, 240);
+    padding-left: 100px;
+}
+
+.div{
+    height: 670px;
+    width: 50%;
+    background-color:rgb(77, 77, 133);
+    float: right;
+    padding-top: 30px;
+}
+.a{
+    color: whitesmoke;
+    font-size: xx-large;
+}
+a:hover{
+    color: rgb(170, 170, 245);
+}
+.img{
+    height: 500px;
+    width: 100%;
+    padding-top: 100px;
+    
+}
+img:hover{
+    height: 600px;
+    width: 100%;
+}
+.div1{
+    height: 80px;
+    width: 100%;
+    background-color: rgb(236, 239, 240);
+}
+.div2{
+    height: 550px;
+    width: 100%;
+    background-color: white;
+}
+.about{
+    font-size: 70px;
+    color: rgb(77, 77, 133);
+    padding-left: 750px;
+    padding-top: 50px;
+     animation:blinkingText 4s infinite;
+}
+@keyframes blinkingText{
+    100%{     color: black;    }
+    40%{    color: rgb(77, 77, 133); }
+    60%{    color: pink; }
+    90%{    color:transparent;  }
+    100%{   color: green;    }
+}
+
+.about1{
+    height: 374px;
+    width: 50%;
+    background-color: white;
+    float: right;
+}
+.about2{
+    height: 374px;
+    width: 50%;
+    background-color: white;
+}
+.marq1{
+    font-size: 50px;
+    color: rgb(77, 77, 133);
+}
+.parg{
+    font-size: x-large;
+    padding-left: 20%;
+    color: rgb(88, 87, 87);
+}
+.parg1{
+    font-size: x-large;
+    padding-left: 5%;
+    color: rgb(88, 87, 87);
+}
+.ul1{
+    font-size: x-large;
+    padding-left: 20%;
+    color: rgb(88, 87, 87);
+}
+.jion{
+    height: 350px;
+    width: 100%;
+    background-color: rgb(236, 239, 240);
+}
+.jion1{
+    float: left;
+    margin-left: 750px;
+    margin-top: 70px;
+    color: rgb(77, 77, 133);
+    font-size: 38px;
+}
+.jion2{
+    float: left;
+    margin-left: 30%;
+    margin-top: 20px;
+    color: rgb(77, 77, 133);
+    font-size: 30px;
+}
+.jion3{
+    float: left;
+    margin-left: 27%;
+    margin-top: 10px;
+    height: 55px;
+    width: 50%;
+    border-radius: 30px;
+    background-color: white;
+}
+.futer{
+    background-color: white;
+    height: 500px;
+    width: 100%;
+}
+.futer1{
+    background-color: white;
+    height: 500px;
+    width: 25%;
+    float: left;
+}
+.futer2{
+    background-color: white;
+    height: 500px;
+    width: 25%;
+    float: left;
+}
+.futer3{
+    background-color: white;
+    height: 500px;
+    width: 25%;
+    float: left;
+}
+.futer4{
+    background-color: white;
+    height: 500px;
+    width: 25%;
+    float: right;
+}
+.add{
+    padding-left: 20%;
+    color: rgb(77, 77, 133);
+    font-size: 50px;
+    padding-top: 50px;
+}
+.add1{
+    padding-left: 20%;
+    color: rgb(77, 77, 133);
+    font-size: 150%;
+}
+.use{
+    padding-left: 20%;
+    color: rgb(77, 77, 133);
+    font-size: 30px;
+    padding-top: 60px;
+}
+.copy{
+    height: 110px;
+    width: 100%;
+    background-color: rgb(77, 77, 133);
+    color: white;
+}
+.email{
+    float: left;
+    padding-top: 25px;
+    padding-left: 10%;
+}
+.email1{
+    float: right;
+    padding-top: 25px;
+    padding-right: 10%;
+}
+
+.jion111{
+    height: 55px;
+    width: 20%;
+    float: right;
+    border-radius: 30px;
+    font-size: 40px;
+    color: white;
+    cursor: pointer;
+    background-color: rgb(11, 180, 247);
+}
+.jion111:hover{
+    height: 55px;
+    width: 20%;
+    background-color: rgb(122, 122, 241);
+}
+/*end of index styeling*/
+
+
+/*blog styleing start*/
+
+.contaner1{
+    height: 2999px;
+    width: 100%;
+    background-color:  white;
+}
+
+.abo{
+    background-color:  rgb(77, 77, 133);
+    padding-top: 30px;
+}
+.head{
+    background-color:  rgb(77, 77, 133);
+    height: 93px;
+    width: 50%;
+    float: right;
+}
+.head1{
+    color: whitesmoke;
+    font-size: xx-large;
+    padding-top: 30px;
+}
+.head1:hover{
+     color: rgb(170, 170, 245);
+}
+.head2{
+    font-size: 50px;
+    color: white;
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
+.about3{
+    height: 950px;
+    width: 100%;
+    background-color: rgb(236, 239, 240) ;
+}
+.about4{
+    height: 950px;
+    width: 50%;
+    background-color:  rgb(236, 239, 240);
+    float: left;
+}
+.about5{
+    height: 950px;
+    width: 50%;
+    background-color: rgb(236, 239, 240);
+    float: right;
+}
+.out1{
+    height: 300px;
+    width: 80%;
+    float: right;
+    background-color: rgb(236, 239, 240);
+    border-radius: 10px;
+     margin-top: 70px;
+}
+.out2{
+    height: 90px;
+    width: 80%;
+    float: right;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.out3{
+    height: 90px;
+    width: 80%;
+    float: right;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.out4{
+    height: 90px;
+    width: 80%;
+    float: right;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+.imgout{
+    height: 600px;
+    width: 100%;
+    margin-top: 20%;
+}
+.imgout:hover{
+    height: 700px;
+    width: 100%;
+}
+.li1{
+    font-size: x-large;
+    padding-left: 10%;
+    color: rgb(88, 87, 87);
+}
+.ppp1{
+    font-size: 50px;
+    color: rgb(77, 77, 133);
+    padding-left: 50px;
+}
+.ppp2{
+    font-size: 40px;
+    color: rgb(77, 77, 133);
+    padding-left: 50px;
+    padding-bottom: 200%;
+}
+.about6{
+    height: 650px;
+    width: 100%;
+    background-color: white;
+}
+.about7{
+    height: 650px;
+    width: 50%;
+    background-color: white;
+    float: left;
+}
+.about8{
+    height: 650px;
+    width: 50%;
+    background-color: white;
+    float: right;
+}
+.png{
+    height: 500px;
+    width: 80%;
+    float: right;
+    border-radius: 8%;
+    margin-top: 10%;
+}
+.png:hover{
+    height: 500px;
+    width: 80%;
+    border-radius: 8%;
+}
+.dot1{
+    background-color: white;
+    height: 300px;
+    width: 80%;
+    border-radius: 5%;
+}
+.dot2{
+    background-color: rgb(236, 239, 240);
+    height: 100px;
+    width: 80%;
+    border-radius: 5%;
+}
+.dot3{
+    background-color: rgb(236, 239, 240);
+    height: 100px;
+    width: 80%;
+    border-radius: 5%;
+}
+.clik1{
+    height: 150px;
+    width: 100%;
+    background-color: rgb(236, 239, 240);
+    color: rgb(77, 77, 133);
+}
+.clik2{
+    background-color: rgb(77, 77, 133);
+    color: white;
+    height: 50px;
+    width: 10%;
+    border-radius: 8%;
+    cursor: pointer;
+}
+.clik2:hover{
+    background-color: rgb(236, 239, 240);
+    color: rgb(77, 77, 133);
+}
+.contact{
+    background-color: white;
+    height: 1300px;
+    width: 100%;
+}
+.contact1{
+    background-color: white;
+    width: 100%;
+    height: 300px;
+}
+.hhhh{
+    float: left;
+    color:  rgb(77, 77, 133);
+    margin-left: 43%;
+    font-size: 50px;
+}
+.hhhh1{
+    color: rgb(77, 77, 133);
+    font-size: 200%;
+    
+}
+.hhhh2{
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    margin-top: 5%;
+}
+.hhhh3{
+    color: white;
+    font-size: 200%;
+}
+.contact11{
+    background-color: white;
+    float: right;
+    width: 50%;
+    height: 850px;
+    margin-right: 8%;
+}
+.contact2{
+    background-color: white;
+    float: left;
+    width: 30%;
+    height: 850px;
+    margin-left: 8%;
+}
+.h1h1{
+    color: rgb(77, 77, 133);
+    font-size: 300%;
+}
+.p1p1{
+    color: rgb(77, 77, 133);
+    font-size: 200%;
+}
+.contact4{
+    background-color: blueviolet;
+    width: 100%;
+    height: 50px;
+}
+fieldset{
+    background-color: white;
+}
+input{
+    font-size: 200%;
+    color: rgb(77, 77, 133);
+    background-color: white;
+    height: 60px;
+    width: 30%;
+    border-radius: 5%;
+}
+.mass{
+    height: 300px;
+    width: 90%;
+    background-color: white;
+    border-radius: 5;
+    font-size: 300%;
+    color: rgb(77, 77, 133);
+}
+label{
+    color: rgb(77, 77, 133);
+    font-size: xx-large;
+}
+.set{
+    background-color: rgb(77, 77, 133);
+    color: white;
+    font-size: 200%;
+}
+.set:hover{
+    background-color:  rgb(236, 239, 240);
+    color: rgb(77, 77, 133);
+}
+/*blog styleing end*/
+
+
+/*about us styeling beggining*/
+.diva{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(228, 157, 157);
+    flex-wrap: wrap;
+}
+.divb{
+    height: 600px;
+    width: 33%;
+    background-color: aquamarine;
+    float: left;
+    flex-wrap: wrap;
+}
+.divc{
+    height: 600px;
+    width: 33%;
+    background-color: rgb(205, 170, 238);
+    float: left;
+    flex-wrap: wrap;
+}
+.divd{
+    height: 600px;
+    width: 34%;
+    background-color: rgb(223, 223, 135);
+    float: right;
+    flex-wrap: wrap;
+}
+.imga{
+    height: 600px;
+    width: 100%;
+    float: left;
+}
+.imgb{
+    height: 600px;
+    width: 100%;
+    float: right;
+}
+.imga :hover{
+    height: 800px;
+}
+.dive{
+    height: 300px;
+    width: 33%;
+    float: left;
+    background-color: whitesmoke;
+    flex-wrap: wrap;
+}
+.h3aa{
+    color: rgb(5, 5, 122);
+}
+/*about us styleing end*/
+
+/*product styleing start*/
+
+.aaa11{
+    color: rgb(5, 5, 122);
+}
+.blog11{
+    height: 1630px;
+    width: 100%;
+    background-color: rgb(77, 77, 133);
+}
+.pro{
+    height: 2000px;
+    width: 100%;
+    background-color: white;
+}
+.pro1{
+    height: 250px;
+    width: 100%;
+    background-color: white;
+}
+.jion222{
+    float: left;
+    margin-left: 25%;
+    margin-top: 20px;
+    color: rgb(77, 77, 133);
+    font-size: 30px;
+}
+.pro2{
+    height: 1255px;
+    width: 30%;
+    background-color: white;
+    float: left;
+}
+.pro3{
+    height: 1330px;
+    width: 30%;
+    background-color: white;
+    float: right;
+}
+.pro4{
+    height: 1530px;
+    width: 30%;
+    background-color: white;
+    
+}
+.div33{
+    height: 1700px;
+    width: 90%;
+    background-color: white;
+}
+.portt{
+    height: 450px;
+    width: 100%;
+}
+.portt:hover{
+    border-radius: 10%;
+    height: 450px;
+    width: 100%;
+}
+.portt1{
+    height: 750px;
+    width: 100%;
+    margin-top: 10%;
+}
+.portt1:hover{
+    border-radius: 10%;
+    height: 750px;
+    width: 100%;
+}
+.portt2{
+    height: 320px;
+    width: 100%;
+}
+.portt2:hover{
+    height: 320px;
+    width: 100%;
+    border-radius: 10%;
+}
+.portt3{
+    height: 750px;
+    width: 100%;
+    margin-top: 10%;
+}
+.portt3:hover{
+    height: 750px;
+    width: 100%;
+    border-radius: 10%;
+}
+.portt4{
+    height: 320px;
+    width: 100%;
+    margin-top: 10%;
+}
+.portt4:hover{
+    height: 320px;
+    width: 100%;
+    border-radius: 10%;
+}
+.portt5{
+    height: 270px;
+    width: 100%;
+}
+.portt5:hover{
+    height: 270px;
+    width: 100%;
+    border-radius: 10%;
+}
+.portt6{
+    height: 300px;
+    width: 100%;
+    margin-top: 10%;
+}
+.portt6:hover{
+    height: 300px;
+    width: 100%;
+    border-radius: 10%;
+}
+.portt7{
+    height: 300px;
+    width: 100%;
+    margin-top: 10%;
+}
+.portt7:hover{
+    height: 300px;
+    width: 100%;
+    border-radius: 10%;
+}
+.portt8{
+    height: 300px;
+    width: 100%;
+    margin-top: 10%;
+}
+.portt8:hover{
+    height: 300px;
+    width: 100%;
+    border-radius: 10%;
+}
+.get{
+    margin-left: 10%;
+    height: 70px;
+    width: 12%;
+    border-radius: 40px;
+    background-color: rgb(11, 180, 247);
+    color: white;
+    cursor: pointer;
+    margin-top: 3%;
+}
+.get:hover{
+    height: 75px;
+    width: 12%;
+    background-color: rgb(122, 122, 241);
+}
+
+.copy00{
+    height: 110px;
+    width: 100%;
+    background-color: rgb(77, 77, 133);
+    color: white;
+}
